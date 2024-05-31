@@ -2,6 +2,11 @@
 
 A simple and intuitive currency converter web application developed using HTML, CSS, and JavaScript. This application allows users to convert between different currencies with up-to-date exchange rates.
 
+URL of the website
+```bash
+    https://pranithram12.github.io/Currency_Converter/
+```
+
 ## Features
 
 - **Real-time Exchange Rates**: Fetches the latest exchange rates from a reliable API.
